@@ -1,5 +1,5 @@
 import { initializeApp } from "firebase/app";
-import { getFirestore } from "firebase/firestore"; // Firestore'u içeri aktar
+import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
   apiKey: process.env.EXPO_PUBLIC_FIREBASE_API_KEY,
@@ -11,8 +11,6 @@ const firebaseConfig = {
   measurementId: process.env.EXPO_PUBLIC_FIREBASE_MEASUREMENT_ID
 };
 
-// Firebase'i başlat
 const app = initializeApp(firebaseConfig);
 
-// Veritabanını (db) başlat ve dışarıya aktar
 export const db = getFirestore(app);
