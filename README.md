@@ -12,6 +12,7 @@
 ---
 
 <p align="center">
+
 ![React Native](https://img.shields.io/badge/React%20Native-0.7x-blue?style=for-the-badge&logo=react)
 ![Expo](https://img.shields.io/badge/Expo-SDK-black?style=for-the-badge&logo=expo)
 ![Firebase](https://img.shields.io/badge/Firebase-Firestore-orange?style=for-the-badge&logo=firebase)
