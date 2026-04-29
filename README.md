@@ -58,4 +58,4 @@ Gerçek zamanlı veri, animasyonlar ve dinamik içeriklerle zenginleştirilmiş 
 
 1. **Projeyi klonla**
 ```bash
-git clone https://github.com/yourusername/flight-tracker.git
+git clone https://github.com/furkanusakpinar/GoEu.git
