@@ -13,6 +13,11 @@
 
 <p align="center">
 
+![Repo](https://img.shields.io/badge/GitHub-furkanusakpinar%2FGoEu-black?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/github/stars/furkanusakpinar/GoEu?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/furkanusakpinar/GoEu?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/furkanusakpinar/GoEu?style=for-the-badge)
+
 ![React Native](https://img.shields.io/badge/React%20Native-0.7x-blue?style=for-the-badge&logo=react)
 ![Expo](https://img.shields.io/badge/Expo-SDK-black?style=for-the-badge&logo=expo)
 ![Firebase](https://img.shields.io/badge/Firebase-Firestore-orange?style=for-the-badge&logo=firebase)
