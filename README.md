@@ -1,10 +1,6 @@
 # ✈️ Flight Journey Tracker Mobil Uygulaması
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2972/2972185.png" width="120" alt="Flight App Logo" />
-</p>
-
-<p align="center">
   <strong>Seyahatlerini Akıllı Takip Et</strong><br />
   Uçuş, Hava Durumu ve Geri Sayım Hepsi Tek Uygulamada!
 </p>
