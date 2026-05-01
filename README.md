@@ -62,8 +62,14 @@ It offers an enriched experience with real-time data, animations, and dynamic co
 ## 🚀 Installation & Setup
 
 **1. Clone the project**
+
+<div align="left">
+
 ```bash
 git clone https://github.com/furkanusakpinar/GoEu.git
 cd GoEu
 npm install
 npx expo start
+```
+
+</div>
